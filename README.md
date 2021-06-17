@@ -1,3 +1,5 @@
+![](af_logo.png)
+
 # Welcome behind the scenes of the Alcohol Freedom app!
 
 [Always and everywhere Alcoholfreedom.life](https://www.alcoholfreedom.life)
