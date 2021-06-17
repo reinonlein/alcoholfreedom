@@ -1,4 +1,4 @@
-![](af_logo.png)
+![](af-txt-smaller.png)
 
 # Welcome behind the scenes of the Alcohol Freedom app!
 
