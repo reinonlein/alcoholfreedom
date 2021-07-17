@@ -3,8 +3,8 @@ Welcome to the changelog of the one and only Alcoholfreedom-app! Here, I'll keep
 
 #  
 #  
-## **1.1.0** First upgrades patch
-#### Release: July 16, 2021
+## **1.1.0** Added currency selector
+#### Release: July 17, 2021
 - With this update I lay the foundation for internalization of this app. By saving the locale, we can make a country-specific experience in the future
 - Also, I added the currency selector to have the saved money achievements make more sense.
 
