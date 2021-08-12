@@ -3,6 +3,12 @@ Welcome to the changelog of the one and only Alcoholfreedom-app! Here, I'll keep
 
 #  
 #  
+## **1.2.0** Added the personal quitting stories
+#### Release: August 12, 2021
+- One of the best ways to keep you motivated in quitting alcohol, is by realizing that you are not alone in your struggles. Every week, I'll add a new inspiring real-life story from somebody who has chosen to quit alcohol. Please enjoy!
+
+#  
+#  
 ## **1.1.0** Added currency selector
 #### Release: July 17, 2021
 - With this update I lay the foundation for internalization of this app. By saving the locale, we can make a country-specific experience in the future
