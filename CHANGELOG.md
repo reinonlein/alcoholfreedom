@@ -3,6 +3,12 @@ Welcome to the changelog of the one and only Alcoholfreedom-app! Here, I'll keep
 
 #  
 #  
+## **1.3** Added the recommended books page
+#### Release: November 11, 2021
+- There are many great books written to assist you on your journey to quit alcohol. In this update, I've added a special page dedicated to the most recommended ones!
+
+#  
+#  
 ## **1.2.0** Added the personal quitting stories
 #### Release: August 12, 2021
 - One of the best ways to keep you motivated in quitting alcohol, is by realizing that you are not alone in your struggles. Every week, I'll add a new inspiring real-life story from somebody who has chosen to quit alcohol. Please enjoy!
