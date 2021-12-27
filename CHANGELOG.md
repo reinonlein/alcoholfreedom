@@ -1,5 +1,8 @@
 Welcome to the changelog of the one and only Alcoholfreedom-app! Here, I'll keep you posted on the latest changes and implementation of all new features. The ideas I have for this app are plenty, so please stay tuned for more alcohol-free awesomeness to come!
 
+## **1.4.0** Adding Smokefreedom references
+#### Release: December 27, 2021
+Great news! I recently published an exciting new variant of this app, that is completely aimed at helping people quit smoking. This update includes a reference to this new app!
 
 #  
 #  
